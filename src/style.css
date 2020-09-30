@@ -25,3 +25,15 @@
 .kevin-contenedor-hobbies {
     margin-bottom: 30px;
 }
+
+#ale {
+    justify-content: center;
+}
+
+#ale p {
+    color: coral;
+}
+
+.studyale {
+    background-color: darkgray;
+}
